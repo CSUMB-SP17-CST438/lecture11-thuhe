@@ -31,7 +31,7 @@ all be usable like your chatbot would be!
 
 (As an example, `get_chatbot_response('Hello')` should return `'Hey there!'`.)
 
-Create a test file called `tests.py`, and write and run some unit tests that
+Modify `tests/unit_tests.py` and write and run some unit tests that
 codify expected input/output combinations for this function.
 
 As you write and run the tests, you'll find bugs in the code. Fix them and
@@ -39,5 +39,5 @@ write tests for your fixes :)
 
 ## Finished?
 
-Read over the following articles, if you haven't done so already:
+Read over the following article, if you haven't done so already:
 * https://www.martinfowler.com/articles/continuousIntegration.html
